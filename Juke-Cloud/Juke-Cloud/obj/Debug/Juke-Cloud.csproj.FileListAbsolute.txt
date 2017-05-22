@@ -1,0 +1,8 @@
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\Juke-Cloud.exe.config
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\Juke-Cloud.exe
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\Juke-Cloud.pdb
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\websocket-sharp.clone.dll
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\WebSocket4Net.dll
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\websocket-sharp.clone.xml
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.exe
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.pdb
