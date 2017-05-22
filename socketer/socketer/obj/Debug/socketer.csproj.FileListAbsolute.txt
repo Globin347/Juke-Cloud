@@ -1,0 +1,7 @@
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\bin\Debug\socketer.exe.config
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\bin\Debug\socketer.exe
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\bin\Debug\socketer.pdb
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\bin\Debug\WebSocket4Net.dll
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\obj\Debug\socketer.csprojResolveAssemblyReference.cache
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\obj\Debug\socketer.exe
+C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\socketer\socketer\obj\Debug\socketer.pdb
