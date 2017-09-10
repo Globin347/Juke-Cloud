@@ -21,8 +21,7 @@ namespace Juke_Cloud
         public static void Main(String[] args)
         {
 
-            Room newRoom = new Room("Dat_Room");
-            List<Room> rooms = new List<Room> { newRoom };
+            
 
             var server = new WebSocketServer();
             server.AddWebSocketService<SocketServer>("/");
