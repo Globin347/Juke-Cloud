@@ -10,14 +10,19 @@ namespace Juke_Cloud
 {
     class main
     {
-
-        List<Room> rooms = new List<Room>();
-        Room newRoom = new Room("Dat_Room");
-
+        /// <summary>
+        /// This program is intended to set up a simple audio server with which any user can add new audio tracks
+        /// to the playlist at any time.
+        /// 
+        /// To be honest, the main reason we're doing it is so that we can slip Siivagunner videos into party playlists,
+        /// but it's good practice.
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(String[] args)
         {
 
-
+            Room newRoom = new Room("Dat_Room");
+            List<Room> rooms = new List<Room> { newRoom };
 
             var server = new WebSocketServer();
             server.AddWebSocketService<SocketServer>("/");

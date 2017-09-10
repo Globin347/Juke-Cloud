@@ -6,3 +6,13 @@ C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin
 C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\websocket-sharp.clone.xml
 C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.exe
 C:\Users\Korthaek\Desktop\Personal Projects\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.pdb
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\Juke-Cloud.exe.config
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\Juke-Cloud.exe
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\Juke-Cloud.pdb
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\websocket-sharp.clone.dll
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\WebSocket4Net.dll
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\bin\Debug\websocket-sharp.clone.xml
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.csprojResolveAssemblyReference.cache
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.csproj.CoreCompileInputs.cache
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.exe
+C:\Users\ander\Source\Repos\Juke-Cloud\Juke-Cloud\Juke-Cloud\obj\Debug\Juke-Cloud.pdb
